@@ -35,6 +35,7 @@
   },
   "homepage": "https://github.com/dm-mensavi/QR-Code-Generator#readme",
   "dependencies": {
-    "inquirer": "^9.2.11"
+    "inquirer": "^9.2.11",
+    "qr-image": "^3.2.0"
   }
 }
