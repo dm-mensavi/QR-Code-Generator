@@ -1,0 +1,40 @@
+{
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "An application that takes in a URL as input and returns a QR code as image",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dm-mensavi/QR-Code-Generator.git"
+  },
+  "keywords": [
+    "QR",
+    "Code",
+    "Generator",
+    "URL",
+    "to",
+    "QR",
+    "Code",
+    "Web",
+    "URL",
+    "to",
+    "QR",
+    "Code",
+    "QR",
+    "code",
+    "encoder"
+  ],
+  "author": "David Mawuli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dm-mensavi/QR-Code-Generator/issues"
+  },
+  "homepage": "https://github.com/dm-mensavi/QR-Code-Generator#readme",
+  "dependencies": {
+    "inquirer": "^9.2.11"
+  }
+}
