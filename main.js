@@ -9,7 +9,7 @@ import { fileURLToPath } from "url";
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
 const app = express();
-const port = 5000;
+const port = process.env.PORT || 5000;
 var imgSrc = "defaultQR.png";
 var inputUrl = "";
 

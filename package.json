@@ -2,11 +2,11 @@
   "name": "qr-code-generator",
   "version": "1.0.0",
   "description": "An application that takes in a URL as input and returns a QR code as image",
-  "main": "app.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "jest",
-    "start":"nodemon app.js"
+    "start":"node main.js"
   },
   "repository": {
     "type": "git",
